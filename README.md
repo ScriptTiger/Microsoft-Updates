@@ -7,3 +7,6 @@ It is always recommended to regularly update your computer for both security and
 
 You can download this repo from the below link to get started:  
 https://github.com/ScriptTiger/Microsoft-Updates/archive/master.zip
+
+If you would like to show your support for ScriptTiger, check out the Patreon page to find out how:  
+https://www.patreon.com/ScriptTiger
