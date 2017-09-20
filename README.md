@@ -10,3 +10,6 @@ https://github.com/ScriptTiger/Microsoft-Updates/archive/master.zip
 
 If you would like to show your support for ScriptTiger, check out the Patreon page to find out how:  
 https://www.patreon.com/ScriptTiger
+
+For more ScriptTiger scripts and goodies, check out ScriptTiger's GitHub Pages website:  
+https://scripttiger.github.io/
